@@ -1,5 +1,14 @@
 This file describes the use of performance evaluation scripts. At present, these scripts are for reference only.
 
+The snp_comp.pl file is to compare the accuracy  between ground-true and detected SNPs, the output is number of consistent SNPs.
+
+The indel_comp.pl file is to compare the accuracy  between ground-true and detected indels, the output is number of consistent indels.
+
+The deletion.pl file is to compare the accuracy  between ground-true and detected deletions, the output is number of consistent deletions.
+
+The inversion.pl file is to compare the accuracy  between ground-true and detected inversions, the output is number of consistent inversions.
+
+
 
 
 
