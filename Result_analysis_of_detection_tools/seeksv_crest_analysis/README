@@ -1,0 +1,5 @@
+The folder contains following files: header file,main file and the executable file.
+The usage is:
+svcompare    simu   compare crest or seeksv results with simulation data of MVSC
+             crest   compare crest or seeksv results with crest results
+             seeksv   compare crest or seeksv results with seeksv results
